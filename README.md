@@ -71,6 +71,8 @@ This repository contains a collection of books related to statistics.  Feel free
 
 -  [Statistics II for Dummies.pdf](https://github.com/sawrab02/Statistics-Book-Collections/blob/main/Books/Statistics%20II%20for%20Dummies.pdf)
 
+-  [Think Stats, 2nd Edition_ Exploratory Data Analysis ( PDFDrive ).pdf](https://github.com/sawrab02/Statistics-Book-Collections/blob/main/Books/Think%20Stats%2C%202nd%20Edition_%20Exploratory%20Data%20Analysis%20(%20PDFDrive%20).pdf)
+ 
 -  [Statistics for Business and Economics-Pearson (2012).pdf](https://github.com/sawrab02/Statistics-Book-Collections/blob/main/Books/Statistics%20for%20Business%20and%20Economics-Pearson%20(2012).pdf)
 
 -  [Statistics_for_Business_and_Economics_Anderson.pdf](https://github.com/sawrab02/Statistics-Book-Collections/blob/main/Books/Statistics_for_Business_and_Economics_Anderson.pdf)
