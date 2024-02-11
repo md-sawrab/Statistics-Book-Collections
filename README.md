@@ -78,3 +78,5 @@ This repository contains a collection of books related to statistics.  Feel free
 -  [Statistics_for_Business_and_Economics_Anderson.pdf](https://github.com/sawrab02/Statistics-Book-Collections/blob/main/Books/Statistics_for_Business_and_Economics_Anderson.pdf)
 
 -  [The Elements of Statistical Learning.pdf](https://github.com/md-sawrab/Statistics-Book-Collections/blob/main/Books/The%20Elements%20of%20Statistical%20Learning.pdf)
+
+-  [IntroductoryBusinessStatistics-OP](https://github.com/md-sawrab/Statistics-Book-Collections/blob/main/Books/IntroductoryBusinessStatistics-OP.pdf)
