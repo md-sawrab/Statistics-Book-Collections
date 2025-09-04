@@ -83,6 +83,8 @@ This repository contains a collection of books related to statistics.  Feel free
 
 -  [Statistics For People Who Hate Statistics](https://github.com/md-sawrab/Statistics-Book-Collections/blob/main/Books/Statistics%20For%20People%20Who%20Hate%20Statistics.pdf)
 
+-  [2004 - wasserman - all of statistics](https://github.com/md-sawrab/Statistics-Book-Collections/blob/main/Books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf)
+
 
 ### Contact
 If you have any questions or feedback regarding Statistics Book Collection, feel free to reach out to us at mdsawrab02@gmail.com.
